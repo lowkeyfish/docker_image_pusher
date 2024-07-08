@@ -1,2 +1,3 @@
 nginx
 redis
+rabbitmq:3.11.13-management
